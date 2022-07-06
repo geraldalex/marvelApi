@@ -1,0 +1,22 @@
+.comics__container {
+display: flex;
+flex-wrap: wrap;
+
+
+}
+.comics__item {
+background-color: var(--color-light);
+margin: var(--spacing-large);
+width: 250px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.comics__name {
+color: aqua;
+}
+
+.comics__img {
+
+}
